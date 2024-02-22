@@ -1,0 +1,37 @@
+<mxfile host="65bd71144e">
+    <diagram id="gTj5x_t_6ksmmImVDeej" name="Página-1">
+        <mxGraphModel dx="764" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="INICIO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF99CC;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="20" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="X , Y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFF00;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="S = X+Y&lt;br&gt;R = X-Y&lt;br&gt;M = X*Y&lt;br&gt;D= X/Y&lt;br&gt;DE = X//Y&lt;br&gt;MOD = X%Y&lt;br&gt;P = X**Y" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0000CC;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="210" width="140" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="S,R,M,D,DE,MOD,P" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#660033;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="400" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="FINAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#994C00;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="500" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
